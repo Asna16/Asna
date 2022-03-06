@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<emails>  
+<email>  
+  <to>Shruthy</to>  
+  <from>Asna</from>  
+  <heading>Heyyy</heading>  
+  <body>Hello Best Friend, how are you?!</body>  
+</email>  
+
+<email>  
+  <to>Asna</to>  
+  <from>Abhirami</from>  
+  <heading>Health is Wealth</heading>  
+  <body>Please start morning walk to stay fit!</body>  
+</email>  
+<email>  
+  <to>Mariyam</to>  
+  <from>Asna</from>  
+  <heading>Your Special Day!</heading>  
+  <body>Happy Birthday!!!!</body>  
+</email>  
+</emails>    
